@@ -3,11 +3,6 @@
 
 <h3>My Skills</h3>
 <p>Languages: C , C++</p>
-<h3>My Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=D-A-N-I-A-L&show_icons=true&count_private=true&theme=dark" alt="D-A-N-I-A-L" />
-
-
-  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-A-N-I-A-L&theme=dark&layout=compact&align=right&width=40%)](https://github.com/D-A-N-I-A-L/github-readme-stats)
  <img align="right" alt="coding" width="300" src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif">
