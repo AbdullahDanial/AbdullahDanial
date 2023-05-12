@@ -10,7 +10,7 @@
   
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-A-N-I-A-L&theme=dark&layout=compact&align=right&width=40%)](https://github.com/D-A-N-I-A-L/github-readme-stats)
- <img align="right" alt="coding" width="300" src="![image](https://github.com/AbdullahDanial/AbdullahDanial/assets/105501133/291d6f9b-6eb0-454f-b370-2051e2e09435)
+ <img align="right" alt="coding" width="300" src="![image](https://github.com/AbdullahDanial/AbdullahDanial/assets/105501133/25653a2d-018c-42a3-ba30-3f03ea4f4008)
 ">
  
  <h3 align="left">My Handle</h3>
