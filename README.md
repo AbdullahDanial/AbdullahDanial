@@ -15,6 +15,4 @@
 <br><br>
   
 ![Profile views](https://gpvc.arturio.dev/D-A-N-I-A-L)
-<br>
-
- <img align="right" alt="coding" width="700" src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif">
+ <img align="right" alt="coding" width="1200" src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif">
