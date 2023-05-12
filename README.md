@@ -3,7 +3,6 @@
 
 <h3>My Skills</h3>
 <p>Languages: C , C++</p>
- <img align="right" alt="coding" width="300" src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif">
  
  <h3 align="left">My Handle</h3>
 <p align="left">
@@ -16,3 +15,6 @@
 <br><br>
   
 ![Profile views](https://gpvc.arturio.dev/D-A-N-I-A-L)
+<br>
+
+ <img align="right" alt="coding" width="700" src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif">
