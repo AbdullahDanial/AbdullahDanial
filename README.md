@@ -10,7 +10,7 @@
   
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-A-N-I-A-L&theme=dark&layout=compact&align=right&width=40%)](https://github.com/D-A-N-I-A-L/github-readme-stats)
- <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img align="right" alt="coding" width="300" src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif">
  
  <h3 align="left">My Handle</h3>
 <p align="left">
