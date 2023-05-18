@@ -2,7 +2,8 @@
 <p>Studies B.Sc. in Software Engineering at Daffodil International University</p>
 
 <h3>My Skills</h3>
-   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="center" title="CodeForces" src="https://github.com/AbdullahDanial/AbdullahDanial/blob/main/C_Logo.png" height="30" width="25"  /> </a>
+   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="center" title="C Language" src="https://github.com/AbdullahDanial/AbdullahDanial/blob/main/C_Logo.png" height="30" width="25"  /> </a>
+   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank"><img align="center" title="C++" src="https://github.com/AbdullahDanial/AbdullahDanial/blob/main/ISO_C%2B%2B_Logo.svg.png" height="30" width="25"  /> </a>
  <br>
  <h3 align="left">My Handle</h3>
 <p align="left">
