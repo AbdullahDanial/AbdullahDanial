@@ -14,5 +14,5 @@
 
 <br><br>
   
-![Profile views](https://gpvc.arturio.dev/AbdullahDanial)
+<!-- ![Profile views](https://gpvc.arturio.dev/AbdullahDanial) -->
 
