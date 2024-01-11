@@ -1,5 +1,5 @@
 <h2>Education</h2>
-<p>Studies B.Sc. in Software Engineering at Daffodil International University</p>
+<p>Studies B.Sc. in Software Engineering </p>
 
 <h3>My Skills</h3>
   </a>
